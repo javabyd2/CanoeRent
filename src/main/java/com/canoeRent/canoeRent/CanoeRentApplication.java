@@ -7,12 +7,5 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class CanoeRentApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(CanoeRentApplication.class, args);
-
-		System.out.println("hello world");
-
-
-		System.out.println("Hello");
-
-
 	}
 }
