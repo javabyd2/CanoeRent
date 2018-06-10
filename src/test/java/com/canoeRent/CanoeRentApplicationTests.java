@@ -1,4 +1,4 @@
-package com.canoeRent.canoeRent;
+package com.canoeRent;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

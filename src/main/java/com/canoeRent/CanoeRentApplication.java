@@ -1,4 +1,4 @@
-package com.canoeRent.canoeRent;
+package com.canoeRent;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
